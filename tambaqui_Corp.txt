@@ -1,0 +1,6 @@
+%%%% HASHDEEP-1.0
+%%%% size,md5,sha256,filename
+## Invoked from: /home/ninjadev/estudos_python/TAMBAQUI_CORP
+## $ hashdeep tambaqui_Corp.pcap
+## 
+2240385,74dcfff634735c5b4f143c896dd269b0,b23c67ef8093a085b1e9a0957694590f0cea24dd5cafb5c8049e3390f76dc435,/home/ninjadev/estudos_python/TAMBAQUI_CORP/tambaqui_Corp.pcap
